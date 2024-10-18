@@ -12,6 +12,13 @@ dependencies:
     sdk: flutter
   get: ^4.6.6
   flutter_inappwebview: ^6.0.0
+  darty_json_safe: ^1.0.3
+  tdesign_flutter: ^0.1.6
+  dio: ^5.7.0
+  path_provider: ^2.1.3
+  path: ^1.8.3
+  archive: ^3.6.1
+  flutter_smart_dialog: ^4.9.8+3
 
 dev_dependencies:
   flutter_test:

@@ -10,6 +10,10 @@ dependencies:
   flutter:
     sdk: flutter
   tdesign_flutter: ^0.1.6
+  common:
+    path: modules/common
+  home:
+    path: modules/pages/home
 
 dev_dependencies:
   flutter_lints: ^2.0.0
